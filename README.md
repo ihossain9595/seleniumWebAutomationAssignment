@@ -5,3 +5,4 @@
 2. Table -> https://demoqa.com/webtables
 3. Alerts -> https://demoqa.com/alerts
 4. iFrames -> https://demoqa.com/frames
+5. Windows and Tabs
