@@ -7,3 +7,4 @@
 4. iFrames -> https://demoqa.com/frames
 5. Windows and Tabs - > https://demoqa.com/browser-windows
 6. Mouse Action -> https://demoqa.com/menu
+7. Drag & Drop -> https://demoqa.com/droppable
