@@ -9,3 +9,5 @@
 6. Mouse Action -> https://demoqa.com/menu
 7. Drag & Drop -> https://demoqa.com/droppable
 8. Form Automate -> https://demoqa.com/automation-practice-form
+9. Link -> https://demoqa.com/links
+10. Broken Image -> https://demoqa.com/broken
